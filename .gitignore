@@ -1,0 +1,20 @@
+# idea
+out
+*.ipr
+*.iws
+.idea
+*.iml
+
+# gradle
+build
+.gradle
+gradle/
+
+# forge
+*.txt
+
+# other
+eclipse
+run
+logs
+libs
